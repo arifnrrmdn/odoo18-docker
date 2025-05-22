@@ -24,8 +24,8 @@ docker compose up -d
 
 ## Screenshots
 
-![App Screenshot](https://github.com/arifnrrmdn/odoo18-docker/blob/main/Screenshoot/3.png)
-![App Screenshot](https://github.com/arifnrrmdn/odoo18-docker/blob/main/Screenshoot/1.png)
-![App Screenshot](https://github.com/arifnrrmdn/odoo18-docker/blob/main/Screenshoot/2.png)
+![App Screenshot](https://github.com/arifnrrmdn/odoo18-docker/blob/main/screenshots/3.png)
+![App Screenshot](https://github.com/arifnrrmdn/odoo18-docker/blob/main/screenshots/1.png)
+![App Screenshot](https://github.com/arifnrrmdn/odoo18-docker/blob/main/screenshots/2.png)
 
 
