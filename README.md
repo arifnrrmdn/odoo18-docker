@@ -1,8 +1,6 @@
 
 # Odoo 18 Development using docker setup by Ariev
 
-Tolong do'ain pembuat repo ini biar cepet ketemu jodoh
-
 
 project ini running di port 9999 | 
 master password : salimatmin
@@ -10,7 +8,7 @@ master password : salimatmin
 
 ## Installation
 
-tinggal ketik aja diterminal kalo error ya syukurin gue juga pusing
+tinggal ketik aja diterminal 
 
 ```bash
 docker compose up -d
